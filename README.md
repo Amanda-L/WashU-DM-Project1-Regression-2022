@@ -16,7 +16,7 @@ I tied different loss functions such as Mean Absolute Error (MAE) and Ridge Regr
 
 ## SP2023 Project 1.ipynb and Project 1 Final Report.pdf: 
 
-The jupyter notebook written to generate outcomes and process data. 
+These are the jupyter notebook consisting the whole processing, and the final written report documenting the whole processing.
 
 # Question Discussion and Main Findings: 
 
