@@ -1,4 +1,4 @@
-# Washu_datamining_project_1_2022
+# Washu_datamining_project_1_Regression_2022
 Project 1: Developed univariate and multivariate linear regression models and implemented gradient descent algorithm from scratch.
 
 # Information on the files
