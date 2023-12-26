@@ -13,7 +13,7 @@ In Bonus point_MAE_Ridge.ipynb, I tried different loss functions such as Mean Ab
 
 These are the jupyter notebook consisting of the whole processing, and the final written report documenting the whole processing.
 
-# Question Discussion and Main Findings: 
+# Discussion and Main Findings: 
 
 ## 1. Did the same model perform equally to the training set and testing set?
 
