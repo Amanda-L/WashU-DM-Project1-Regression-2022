@@ -7,11 +7,11 @@ By using gradient descent as the algorithm with Mean Squared Error (MSE) as a lo
 
 See Programming Assignment Description 1.pdf for detailed requirements.
 
-In Bonus point_MAE_Ridge.ipynb, I tied different loss functions such as Mean Absolute Error (MAE) and Ridge Regression other than MSE. 
+In Bonus point_MAE_Ridge.ipynb, I tried different loss functions such as Mean Absolute Error (MAE) and Ridge Regression other than MSE. 
 
 ## SP2023 Project 1.ipynb and Project 1 Final Report.pdf: 
 
-These are the jupyter notebook consisting the whole processing, and the final written report documenting the whole processing.
+These are the jupyter notebook consisting of the whole processing, and the final written report documenting the whole processing.
 
 # Question Discussion and Main Findings: 
 
