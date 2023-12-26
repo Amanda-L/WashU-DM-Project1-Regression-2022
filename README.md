@@ -1,5 +1,4 @@
-# Description
-
+# Data Mining Project 1: Regression Analysis on Concrete Data
 This assignment is about applying data mining techniques on the UCI Machine Learning Repository dataset: Concrete Compressive Strength. The data showed 8 features with 1 response value (Concrete strength). 
 
 The problem is finding the relation between these features contributing to the response value. I employed 8 univariate models (i.e. each model with one column as input feature) and 1 multivariate model (i.e. one model with 8 columns as input features).
