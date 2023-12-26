@@ -1,4 +1,4 @@
-# Washu_datamining_project_1_Regression_2022
+# Description
 
 This assignment is about applying data mining techniques on the UCI Machine Learning Repository dataset: Concrete Compressive Strength. The data showed 8 features with 1 response value (Concrete strength). 
 
