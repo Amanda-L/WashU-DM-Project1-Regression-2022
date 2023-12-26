@@ -1,5 +1,5 @@
 # Washu_datamining_project_1_Regression_2022
-Project 1: Developed univariate and multivariate linear regression models and implemented gradient descent algorithm from scratch.
+Finding the relation between features contributing to the concrete strength by using univariate and multivariate linear regression models and implementing gradient descent algorithm from scratch.
 
 # Information on the files
 
